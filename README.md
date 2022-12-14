@@ -32,10 +32,12 @@ npm run dev
 
 ## Typescriptの環境設定
 
+
 ###　パッケージインストール
 
+
 ```
-npm install -D typescript @types/node @types/react @types/react-dom 
+npm install -D typescript @types/node @types/react @types/react-dom
 ```
 
 ```
